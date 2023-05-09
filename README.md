@@ -1,0 +1,2 @@
+# Real-Time-Chat-App
+This is a real time chat application where multiple user can chat on a specific room at a single time.
