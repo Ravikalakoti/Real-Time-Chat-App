@@ -1,3 +1,5 @@
 # Real-Time-Chat-App (Ravi Kalakoti)
 This is a real time chat application where multiple user can chat on a specific room at a single time.
-<img src="url" alt="alternatetext">
+
+<h1>Chat box</h1>
+<img src="https://github.com/Ravikalakoti/Real-Time-Chat-App/blob/main/Screenshot%20from%202023-05-12%2009-39-36.png" alt="alternatetext">
