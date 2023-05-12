@@ -45,5 +45,10 @@ def getMessages(request, room):
     messages = Message.objects.filter(room=room_details.id)
     return JsonResponse({"messages":list(messages.values())})
 
+
+def check(request):
+   pass
+
+
 def test(request):
     pass
